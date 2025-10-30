@@ -1,0 +1,2 @@
+difficulty: medium
+link: https://neetcode.io/problems/anagram-groups?list=neetcode150
