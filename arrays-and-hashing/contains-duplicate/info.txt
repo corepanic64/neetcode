@@ -1,0 +1,2 @@
+difficulty: easy
+link: https://neetcode.io/problems/duplicate-integer?list=neetcode250

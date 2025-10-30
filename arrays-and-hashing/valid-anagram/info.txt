@@ -1,0 +1,2 @@
+difficulty: easy
+link: https://neetcode.io/problems/is-anagram?list=neetcode150

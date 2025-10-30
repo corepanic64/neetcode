@@ -1,6 +1,3 @@
-// DIFF: EASY
-// LINK: https://neetcode.io/problems/duplicate-integer?list=neetcode250
-
 function hasDuplicate(nums) {
   let dups = {};
   for (let i = 0; i < nums.length; i++) {
